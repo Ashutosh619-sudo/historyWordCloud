@@ -1,7 +1,7 @@
 import browserhistory as bh
 import pandas as pd
 from matplotlib import pyplot as plt
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+from wordcloud import WordCloud,STOPWORDS
 
 #print(bh.get_browserhistory())
 #bh.write_browserhistory_csv()
